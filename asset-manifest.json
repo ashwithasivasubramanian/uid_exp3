@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ashwithasivasubramanian/uid_exp3.git/static/css/main.bec0263e.css",
+    "main.js": "/ashwithasivasubramanian/uid_exp3.git/static/js/main.364c61a2.js",
+    "static/js/453.83bdee10.chunk.js": "/ashwithasivasubramanian/uid_exp3.git/static/js/453.83bdee10.chunk.js",
+    "index.html": "/ashwithasivasubramanian/uid_exp3.git/index.html",
+    "main.bec0263e.css.map": "/ashwithasivasubramanian/uid_exp3.git/static/css/main.bec0263e.css.map",
+    "main.364c61a2.js.map": "/ashwithasivasubramanian/uid_exp3.git/static/js/main.364c61a2.js.map",
+    "453.83bdee10.chunk.js.map": "/ashwithasivasubramanian/uid_exp3.git/static/js/453.83bdee10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bec0263e.css",
+    "static/js/main.364c61a2.js"
+  ]
+}
